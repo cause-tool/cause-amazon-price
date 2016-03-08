@@ -1,6 +1,6 @@
 {
   "name": "cause-amazon-price",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "checks if the price of an amazon product has changed",
   "main": "index.js",
   "license": "CC-BY-NC-SA-4.0",
