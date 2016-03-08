@@ -1,0 +1,33 @@
+{
+  "name": "cause-amazon-price",
+  "version": "0.0.0",
+  "description": "checks if the price of an amazon product has changed",
+  "main": "index.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "freder.code@gmail.com",
+  "dependencies": {
+    "cause-utils": "*",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0",
+    "validator": "^4.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freder/cause-amazon-price.git"
+  },
+  "keywords": [
+    "cause",
+    "cause-block",
+    "scraping",
+    "amazon",
+    "price"
+  ],
+  "bugs": {
+    "url": "https://github.com/freder/cause-amazon-price/issues"
+  },
+  "homepage": "https://github.com/freder/cause-amazon-price"
+}
